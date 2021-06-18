@@ -47,15 +47,12 @@ Here are some ideas to get you started:
   <a href="https://gist.github.com/Mintonmu">
     <img src="https://badges.pufler.dev/gists/Mintonmu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Mintonmu">
-    <img src="https://badges.pufler.dev/commits/monthly/Mintonmu?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="../assets/coder.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="./assets/coder.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 **Languages and Frameworks**
 
