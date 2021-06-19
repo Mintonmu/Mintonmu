@@ -94,16 +94,18 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 🚧 **My Todoist Stats: ⬇️**
 
+//TODO:
 
 
 
 
-:bookmark:Learning：
 
-[ ]Rust
+:bookmark:My Learning Stats：
 
-[ ] C++ library
+[*]Rust
 
-[ ] Golang
+[*] C++ library
+
+[*] Golang
 
 …..
