@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=Mintonmu&title_color=333&text_color=777" alt="Mintonmu's Stats" >
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.youtube.com/channel/UCFWfIuX40G9UU0Ca2tsKjQA" target="_blank" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
@@ -30,6 +29,10 @@ Here are some ideas to get you started:
   &emsp;
   <a href="https://afdian.net/@mintonmu" target="_blank" title="BuyCoke">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
+  </a> 
+  &emsp;
+     <a href="https://space.bilibili.com/24339834" target="_blank" title="bilibil">
+    <img src="./assets/bilibili.png" width="30px"/>
   </a> 
   &emsp;
   <br><br>
@@ -48,6 +51,7 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/gists/Mintonmu?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
 
 
 <h2></h2>
@@ -74,9 +78,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
 C++        1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
@@ -90,3 +94,16 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 
 🚧 **My Todoist Stats: ⬇️**
 
+
+
+
+
+:bookmark:Learning：
+
+[ ]Rust
+
+[ ] C++ library
+
+[ ] Golang
+
+…..
