@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25257%26project%3D%26in=0)](https://codetime.dev)
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25257%26project%3D%26in=0">
   <a href="https://github.com/Mintonmu">
     <img src="https://badges.pufler.dev/visits/Mintonmu/Mintonmu?style=flat-square&color=black&logo=github">
   </a>
