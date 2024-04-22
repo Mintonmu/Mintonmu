@@ -70,34 +70,10 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-C++        1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JAVA       17 mins         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
-<!--END_SECTION:waka-->
-
----
-
 🚧 **My Todoist Stats: ⬇️**
 
 //TODO:
 
-
-
-
-
 :bookmark:My Learning Stats：
-
-[*]Rust
-
-[*] C++ library
-
-[*] Golang
 
 …..
