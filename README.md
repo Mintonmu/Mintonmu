@@ -42,15 +42,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Mintonmu">
     <img src="https://badges.pufler.dev/visits/Mintonmu/Mintonmu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Mintonmu">
-    <img src="https://badges.pufler.dev/years/Mintonmu?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Mintonmu?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Mintonmu?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/Mintonmu">
-    <img src="https://badges.pufler.dev/gists/Mintonmu?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 
