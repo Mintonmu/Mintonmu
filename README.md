@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Mintonmu">
     <img src="https://badges.pufler.dev/visits/Mintonmu/Mintonmu?style=flat-square&color=black&logo=github">
   </a>
-  [![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25256%26project%3D%26in=0)](https://codetime.dev)
 </p>
 
 
