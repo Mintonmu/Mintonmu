@@ -27,10 +27,6 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://afdian.net/@mintonmu" target="_blank" title="BuyCoke">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
-  </a> 
-  &emsp;
      <a href="https://space.bilibili.com/24339834" target="_blank" title="bilibil">
     <img src="./assets/bilibili.png" width="30px"/>
   </a> 
