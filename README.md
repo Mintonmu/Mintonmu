@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
   -->
 
-<p align="center">
-  <a href="https://github.com/Mintonmu" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mintonmu&title_color=333&text_color=777" alt="Mintonmu's Stats" >
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mintonmu&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mintonmu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mintonmu&theme=merko&hide_border=false)<br/>
+
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCFWfIuX40G9UU0Ca2tsKjQA" target="_blank" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
@@ -41,11 +41,7 @@ Here are some ideas to get you started:
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat-square&logo=zig&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
 
 **Tools and Environments**
 
